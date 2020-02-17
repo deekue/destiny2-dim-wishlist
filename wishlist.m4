@@ -17,16 +17,7 @@ Breachlight(
 	Vorpal_Weapon,
 	any_of(Demolitionist, Outlaw, Hip_Fire_Grip))
 
-//notes:Minor/major add clear
-Sword(Jagged_Edge, Tireless_Blade, Whirlwind_Blade)
 
-//notes:Boss damage
-Sword(Jagged_Edge, Relentless_Strikes, Whirlwind_Blade)
-
-//notes:Lots of ammo for warlock skating
-Sword(Enduring_Blade)
-
-//notes:Ultimate Zenobia-D: max blast radius, cluster bombs, field prep for extra rocket and faster reload.
-Zenobia_D(1478423395, Black_Powder, Cluster_Bomb, Field_Prep)
-
+include(`coolguy-season_of_dawn.txt')
+include(`fallout_plays-controller.txt')
 include(`sources/voltron.txt')
