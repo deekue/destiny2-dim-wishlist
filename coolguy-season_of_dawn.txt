@@ -1,0 +1,87 @@
+title:Coolguy - Season of Dawn
+//description: see https://www.youtube.com/channel/UCAOitB3h99Ur9RzR5ftd2bA
+
+//notes:Coolguy - PvE
+dimwishlist:item=3850168899&perks=2869569095,3523296417
+dimwishlist:item=3850168899&perks=2869569095,1556840489
+
+
+//notes:Coolguy - PvP. use quick access sling mod, fire grenade then switch to primary
+dimwishlist:item=3850168899&perks=3300816228
+
+
+//notes:Coolguy - PvE, unique perk
+Line_In_The_Sand(
+  247725512, 1771339417|2284787283
+)
+
+//notes:Coolguy - PvP, Controller. needs Counter Balance mod
+dimwishlist:item=3233390913&perks=588594999,2387244414
+
+
+//notes:Coolguy - PvP, MnK. unique perk EotS
+dimwishlist:item=3233390913&perks=588594999,699525795
+
+
+//notes:Coolguy - PvE. Grenade energy
+dimwishlist:item=3233390913&perks=3523296417,2848615171
+
+
+//notes:Coolguy - MnK. low stability, needs CB mod
+dimwishlist:item=1251729046&perks=2779035018,2458213969
+
+
+//notes:Coolguy - Controller. low stability, needs CB mod
+dimwishlist:item=1251729046&perks=280464955,2458213969
+
+
+//notes:Coolguy - PvE. Solar fusion
+dimwishlist:item=1706206669&perks=3523296417,2458213969
+
+
+//notes:Coolguy - PvE. Solar fusion
+dimwishlist:item=1706206669&perks=3523296417,4082225868
+
+
+//notes:Coolguy - PvP. Solar fusion
+dimwishlist:item=1706206669&perks=3523296417,1890422124
+
+
+//notes:Coolguy - PvP. Solar fusion
+dimwishlist:item=1706206669&perks=3523296417,2846385770
+
+
+//notes:Coolguy - elite scout. ideally Vorpal+Exp Payload
+dimwishlist:item=2723241847&perks=247725512,1546637391
+dimwishlist:item=2723241847&perks=247725512,3038247973
+
+
+//notes:Coolguy - PvE. use with Boss Spec or Major Spec mod
+dimwishlist:item=4149758318&perks=3300816228,1683379515
+
+dimwishlist:item=4149758318&perks=247725512,1683379515
+
+
+//notes:Coolguy - PvP.
+dimwishlist:item=4149758318&perks=247725512,1890422124
+
+
+//notes:Coolguy - PvE.
+dimwishlist:item=1289997971&perks=3523296417,1546637391
+dimwishlist:item=1289997971&perks=3523296417,2458213969
+
+dimwishlist:item=1289997971&perks=1168162263,1546637391
+dimwishlist:item=1289997971&perks=1168162263,2458213969
+
+
+//notes:Coolguy - PvP.
+dimwishlist:item=1289997971&perks=3523296417,1546637391
+dimwishlist:item=1289997971&perks=3523296417,2458213969
+
+dimwishlist:item=1289997971&perks=1168162263,1546637391
+dimwishlist:item=1289997971&perks=1168162263,2458213969
+
+dimwishlist:item=1289997971&perks=1866048759,1546637391
+dimwishlist:item=1289997971&perks=1866048759,2458213969
+
+

@@ -17,17 +17,145 @@ dimwishlist:item=1289997971&perks=1546637391,3523296417
 dimwishlist:item=1289997971&perks=1546637391,1168162263
 dimwishlist:item=1289997971&perks=1546637391,1866048759
 
-//notes:Minor/major add clear
-dimwishlist:item=54&perks=3666208348,2590710093,3913600130
 
-//notes:Boss damage
-dimwishlist:item=54&perks=3666208348,1749209109,3913600130
+title:Coolguy - Season of Dawn
+//description: see https://www.youtube.com/channel/UCAOitB3h99Ur9RzR5ftd2bA
 
-//notes:Lots of ammo for warlock skating
-dimwishlist:item=54&perks=1261178282
+//notes:Coolguy - PvE
+dimwishlist:item=3850168899&perks=2869569095,3523296417
+dimwishlist:item=3850168899&perks=2869569095,1556840489
 
-//notes:Ultimate Zenobia-D: max blast radius, cluster bombs, field prep for extra rocket and faster reload.
-dimwishlist:item=3776129137&perks=1478423395,1996142143,1275731761,2869569095
+
+//notes:Coolguy - PvP. use quick access sling mod, fire grenade then switch to primary
+dimwishlist:item=3850168899&perks=3300816228
+
+
+//notes:Coolguy - PvE, unique perk
+Line_In_The_Sand(
+  247725512, 1771339417|2284787283
+)
+
+//notes:Coolguy - PvP, Controller. needs Counter Balance mod
+dimwishlist:item=3233390913&perks=588594999,2387244414
+
+
+//notes:Coolguy - PvP, MnK. unique perk EotS
+dimwishlist:item=3233390913&perks=588594999,699525795
+
+
+//notes:Coolguy - PvE. Grenade energy
+dimwishlist:item=3233390913&perks=3523296417,2848615171
+
+
+//notes:Coolguy - MnK. low stability, needs CB mod
+dimwishlist:item=1251729046&perks=2779035018,2458213969
+
+
+//notes:Coolguy - Controller. low stability, needs CB mod
+dimwishlist:item=1251729046&perks=280464955,2458213969
+
+
+//notes:Coolguy - PvE. Solar fusion
+dimwishlist:item=1706206669&perks=3523296417,2458213969
+
+
+//notes:Coolguy - PvE. Solar fusion
+dimwishlist:item=1706206669&perks=3523296417,4082225868
+
+
+//notes:Coolguy - PvP. Solar fusion
+dimwishlist:item=1706206669&perks=3523296417,1890422124
+
+
+//notes:Coolguy - PvP. Solar fusion
+dimwishlist:item=1706206669&perks=3523296417,2846385770
+
+
+//notes:Coolguy - elite scout. ideally Vorpal+Exp Payload
+dimwishlist:item=2723241847&perks=247725512,1546637391
+dimwishlist:item=2723241847&perks=247725512,3038247973
+
+
+//notes:Coolguy - PvE. use with Boss Spec or Major Spec mod
+dimwishlist:item=4149758318&perks=3300816228,1683379515
+
+dimwishlist:item=4149758318&perks=247725512,1683379515
+
+
+//notes:Coolguy - PvP.
+dimwishlist:item=4149758318&perks=247725512,1890422124
+
+
+//notes:Coolguy - PvE.
+dimwishlist:item=1289997971&perks=3523296417,1546637391
+dimwishlist:item=1289997971&perks=3523296417,2458213969
+
+dimwishlist:item=1289997971&perks=1168162263,1546637391
+dimwishlist:item=1289997971&perks=1168162263,2458213969
+
+
+//notes:Coolguy - PvP.
+dimwishlist:item=1289997971&perks=3523296417,1546637391
+dimwishlist:item=1289997971&perks=3523296417,2458213969
+
+dimwishlist:item=1289997971&perks=1168162263,1546637391
+dimwishlist:item=1289997971&perks=1168162263,2458213969
+
+dimwishlist:item=1289997971&perks=1866048759,1546637391
+dimwishlist:item=1289997971&perks=1866048759,2458213969
+
+
+
+title:Fallout Plays God Rolls.
+description: WIP based on Fallout Plays channel https://www.youtube.com/channel/UCMlqYSFcNTrxDQO_T9GCsjg
+
+//notes:PvP Tatara Gaze. Handling MW
+dimwishlist:item=1449922174&perks=1840239774,3230963543,957782887,1015611457
+dimwishlist:item=1449922174&perks=1840239774,3230963543,706527188,1015611457
+
+//notes:PvP Erentil(surprise!). Range MW
+dimwishlist:item=3027844941&perks=3300816228,1600092898
+
+//notes:PvP Erentil(range). Range MW
+dimwishlist:item=3027844941&perks=194952922,2969185026,280464955,2846385770
+
+//notes:PvP Erentil(best of all worlds). Range MW
+dimwishlist:item=3027844941&perks=1628165636,2969185026,588594999,1600092898
+
+//notes:Fallout Plays: PVP, MW: Range. https://www.youtube.com/watch?v=yZ7ATo7QS64
+dimwishlist:item=4190932264&perks=202670084,3142289711,957782887,706527188
+
+//notes:Fallout Plays: PVP, MW: Range or Handling. https://www.youtube.com/watch?v=yZ7ATo7QS64
+dimwishlist:item=4190932264&perks=202670084,3142289711,957782887,588594999
+dimwishlist:item=4190932264&perks=3250034553,3142289711,957782887,588594999
+
+//notes:Fallout Plays: Controller PvE, MW: Stability or Reload. https://www.youtube.com/watch?v=loarkSGYikk
+dimwishlist:item=603242241&perks=839105230,2420895100,2779035018,3425386926
+
+//notes:Fallout Plays: PvP, MW: Range. https://www.youtube.com/watch?v=D4GE4RU3xfA
+dimwishlist:item=636912560&perks=1047830412,3142289711,3161816588,3425386926
+
+//notes:Fallout Plays: PvP MW: Range. https://www.youtube.com/watch?v=D4GE4RU3xfA
+dimwishlist:item=636912560&perks=1047830412,3142289711,588594999,957782887
+
+//notes:Fallout Plays: Controller PvP, MW: Stability. https://www.youtube.com/watch?v=atkJYoL6E1U
+dimwishlist:item=2712244741&perks=1482024992,1561002382,3425386926,3161816588
+dimwishlist:item=2712244741&perks=1482024992,1885400500,3425386926,3161816588
+dimwishlist:item=2712244741&perks=3250034553,1561002382,3425386926,3161816588
+dimwishlist:item=2712244741&perks=3250034553,1885400500,3425386926,3161816588
+
+//notes:Fallout Plays: Controller PvP, MW: Stability. https://www.youtube.com/watch?v=atkJYoL6E1U
+dimwishlist:item=2712244741&perks=1482024992,1561002382,1015611457,1168162263
+dimwishlist:item=2712244741&perks=1482024992,1885400500,1015611457,1168162263
+dimwishlist:item=2712244741&perks=3250034553,1561002382,1015611457,1168162263
+dimwishlist:item=2712244741&perks=3250034553,1885400500,1015611457,1168162263
+
+//notes:Fallout Plays: Controller PvP, MW: Stability. https://www.youtube.com/watch?v=atkJYoL6E1U
+dimwishlist:item=2712244741&perks=1482024992,1561002382,2846385770,1168162263
+dimwishlist:item=2712244741&perks=1482024992,1885400500,2846385770,1168162263
+dimwishlist:item=2712244741&perks=3250034553,1561002382,2846385770,1168162263
+dimwishlist:item=2712244741&perks=3250034553,1885400500,2846385770,1168162263
+
 
 title:This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, u/HavocsCall, and @chrisfried for their contributions. Ping u/48klocs / @48klocs with any issues.

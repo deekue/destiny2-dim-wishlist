@@ -1,0 +1,71 @@
+title:Fallout Plays God Rolls.
+description: WIP based on Fallout Plays channel https://www.youtube.com/channel/UCMlqYSFcNTrxDQO_T9GCsjg
+
+//notes:PvP Tatara Gaze. Handling MW
+dimwishlist:item=1449922174&perks=1840239774,3230963543,957782887,1015611457
+dimwishlist:item=1449922174&perks=1840239774,3230963543,706527188,1015611457
+
+//notes:PvP Erentil(surprise!). Range MW
+dimwishlist:item=3027844941&perks=3300816228,1600092898
+
+//notes:PvP Erentil(range). Range MW
+dimwishlist:item=3027844941&perks=194952922,2969185026,280464955,2846385770
+
+//notes:PvP Erentil(best of all worlds). Range MW
+dimwishlist:item=3027844941&perks=1628165636,2969185026,588594999,1600092898
+
+//notes:Fallout Plays: PVP, MW: Range. https://www.youtube.com/watch?v=yZ7ATo7QS64
+dimwishlist:item=4190932264&perks=202670084,3142289711,957782887,706527188
+
+//notes:Fallout Plays: PVP, MW: Range or Handling. https://www.youtube.com/watch?v=yZ7ATo7QS64
+dimwishlist:item=4190932264&perks=202670084,3142289711,957782887,588594999
+dimwishlist:item=4190932264&perks=3250034553,3142289711,957782887,588594999
+
+//notes:Fallout Plays: MnK PvE, MW: Range or Reload. https://www.youtube.com/watch?v=loarkSGYikk
+dimwishlist:item=603242241&perks=202670084,2420895100,2779035018,3425386926
+
+//notes:Fallout Plays: Controller PvE, MW: Stability or Reload. https://www.youtube.com/watch?v=loarkSGYikk
+dimwishlist:item=603242241&perks=839105230,2420895100,2779035018,3425386926
+
+//notes:Fallout Plays: PvP, MW: Range. https://www.youtube.com/watch?v=D4GE4RU3xfA
+dimwishlist:item=636912560&perks=1047830412,3142289711,3161816588,3425386926
+
+//notes:Fallout Plays: PvP MW: Range. https://www.youtube.com/watch?v=D4GE4RU3xfA
+dimwishlist:item=636912560&perks=1047830412,3142289711,588594999,957782887
+
+//notes:Fallout Plays: MnK PvP, MW: Range. https://www.youtube.com/watch?v=atkJYoL6E1U
+dimwishlist:item=2712244741&perks=202670084,1561002382,3425386926,3161816588
+dimwishlist:item=2712244741&perks=202670084,1885400500,3425386926,3161816588
+dimwishlist:item=2712244741&perks=3250034553,1561002382,3425386926,3161816588
+dimwishlist:item=2712244741&perks=3250034553,1885400500,3425386926,3161816588
+
+//notes:Fallout Plays: MnK PvP, MW: Range. https://www.youtube.com/watch?v=atkJYoL6E1U
+dimwishlist:item=2712244741&perks=202670084,1561002382,1015611457,1168162263
+dimwishlist:item=2712244741&perks=202670084,1885400500,1015611457,1168162263
+dimwishlist:item=2712244741&perks=3250034553,1561002382,1015611457,1168162263
+dimwishlist:item=2712244741&perks=3250034553,1885400500,1015611457,1168162263
+
+//notes:Fallout Plays: MnK PvP, MW: Range. https://www.youtube.com/watch?v=atkJYoL6E1U
+dimwishlist:item=2712244741&perks=202670084,1561002382,2846385770,1168162263
+dimwishlist:item=2712244741&perks=202670084,1885400500,2846385770,1168162263
+dimwishlist:item=2712244741&perks=3250034553,1561002382,2846385770,1168162263
+dimwishlist:item=2712244741&perks=3250034553,1885400500,2846385770,1168162263
+  
+//notes:Fallout Plays: Controller PvP, MW: Stability. https://www.youtube.com/watch?v=atkJYoL6E1U
+dimwishlist:item=2712244741&perks=1482024992,1561002382,3425386926,3161816588
+dimwishlist:item=2712244741&perks=1482024992,1885400500,3425386926,3161816588
+dimwishlist:item=2712244741&perks=3250034553,1561002382,3425386926,3161816588
+dimwishlist:item=2712244741&perks=3250034553,1885400500,3425386926,3161816588
+
+//notes:Fallout Plays: Controller PvP, MW: Stability. https://www.youtube.com/watch?v=atkJYoL6E1U
+dimwishlist:item=2712244741&perks=1482024992,1561002382,1015611457,1168162263
+dimwishlist:item=2712244741&perks=1482024992,1885400500,1015611457,1168162263
+dimwishlist:item=2712244741&perks=3250034553,1561002382,1015611457,1168162263
+dimwishlist:item=2712244741&perks=3250034553,1885400500,1015611457,1168162263
+
+//notes:Fallout Plays: Controller PvP, MW: Stability. https://www.youtube.com/watch?v=atkJYoL6E1U
+dimwishlist:item=2712244741&perks=1482024992,1561002382,2846385770,1168162263
+dimwishlist:item=2712244741&perks=1482024992,1885400500,2846385770,1168162263
+dimwishlist:item=2712244741&perks=3250034553,1561002382,2846385770,1168162263
+dimwishlist:item=2712244741&perks=3250034553,1885400500,2846385770,1168162263
+
