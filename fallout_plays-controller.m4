@@ -41,13 +41,6 @@ Beloved(
   Snapshot_Sights,
   Moving_Target)
 
-//notes:Fallout Plays: MnK PvE, MW: Range or Reload. https://www.youtube.com/watch?v=loarkSGYikk
-Hammerhead(
-  Full_Bore,
-  Extended_Mag,
-  Feeding_Frenzy,
-  Rampage)
-
 //notes:Fallout Plays: Controller PvE, MW: Stability or Reload. https://www.youtube.com/watch?v=loarkSGYikk
 Hammerhead(
   Arrowhead_Brake,
@@ -69,27 +62,6 @@ Dust_Rock_Blues(
   Moving_Target,
   Snapshot_Sights)
 
-//notes:Fallout Plays: MnK PvP, MW: Range. https://www.youtube.com/watch?v=atkJYoL6E1U
-Bygones(
-  any_of(Full_Bore, Hammer_Forged_Rifling),
-  any_of(High_Caliber_Rounds, Ricochet_Rounds),
-  Rampage,
-  Slideshot)
-
-//notes:Fallout Plays: MnK PvP, MW: Range. https://www.youtube.com/watch?v=atkJYoL6E1U
-Bygones(
-  any_of(Full_Bore, Hammer_Forged_Rifling),
-  any_of(High_Caliber_Rounds, Ricochet_Rounds),
-  Kill_Clip,
-  Outlaw)
-
-//notes:Fallout Plays: MnK PvP, MW: Range. https://www.youtube.com/watch?v=atkJYoL6E1U
-Bygones(
-  any_of(Full_Bore, Hammer_Forged_Rifling),
-  any_of(High_Caliber_Rounds, Ricochet_Rounds),
-  Rangefinder,
-  Outlaw)
-  
 //notes:Fallout Plays: Controller PvP, MW: Stability. https://www.youtube.com/watch?v=atkJYoL6E1U
 Bygones(
   any_of(Smallbore, Hammer_Forged_Rifling),
