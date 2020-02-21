@@ -4,8 +4,8 @@ title:True Vanguard
 //notes:True Vanguard: PvP
 // https://youtu.be/9QXBw6NFi08
 Traveler_s_Judgment_5(
-  Quickdot_SAS|Control_SAS|Tactic_SAS,
-  High-Caliber_Rounds|Ricochet_Rounds|Flared_Magwell,
+  QuickDot_SAS|Control_SAS|Tactic_SAS,
+  High_Caliber_Rounds|Ricochet_Rounds|Flared_Magwell,
   Rapid_Hit,
   Tap_the_Trigger,
 )
