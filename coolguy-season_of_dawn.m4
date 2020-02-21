@@ -83,6 +83,40 @@ Breachlight(
 
 //notes:Coolguy - PvP.
 Breachlight(
-  Demolitionist|Outlaw|Hip_Fire_Grip, Vorpal_Weapon|Multikill_Clip
+  Demolitionist|Outlaw|Hip_Fire_Grip,
+  Vorpal_Weapon|Multikill_Clip
+)
+
+// Trophy Hunter review - https://youtu.be/dGHNinCK3HI
+//notes:Coolguy - PvP. handling perks, avoid negatives on barrels
+Trophy_Hunter(
+ Arrowhead_Break|Fluted_Barrel|Polygonal_Rifling,
+ Tactical_Mag,
+ Pulse_Monitor,
+ Snapshot
+)
+
+//notes:Coolguy - PvP. Controller
+Trophy_Hunter(
+ Corkscrew_Rifling|Smallbore,
+ Steady_Rounds,
+ Pulse_Monitor,
+ Snapshot
+)
+
+//notes:Coolguy - PvE. solo or solo queue, use Backup Mag mod
+Trophy_Hunter(
+  Arrowhead_Brake|Corkscrew_Rifling|Fluted_Barrel,
+  Appended_Mag|Extended_Mag,
+  Triple_Tap,
+  Vorpal_Weapon
+)
+
+//notes:Coolguy - PvE. Gambit w/Malfeasance - pop shield, switch to kinetic.
+Trophy_Hunter(
+  Arrowhead_Brake|Corkscrew_Rifling|Fluted_Barrel,
+  Appended_Mag|Tactical_Mag,
+  Genesis,
+  Disruption_Break
 )
 

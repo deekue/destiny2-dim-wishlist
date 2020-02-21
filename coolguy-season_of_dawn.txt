@@ -85,6 +85,7 @@ dimwishlist:item=1289997971&perks=1866048759,1546637391
 dimwishlist:item=1289997971&perks=1866048759,2458213969
 
 
+// Trophy Hunter review - https://youtu.be/dGHNinCK3HI
 //notes:Coolguy - PvP. handling perks, avoid negatives on barrels
 dimwishlist:item=4166221755&perks=Arrowhead_Break,106909392,972757866,Snapshot
 
