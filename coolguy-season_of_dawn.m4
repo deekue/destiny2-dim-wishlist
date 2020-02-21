@@ -78,7 +78,8 @@ Traveler_s_Judgment_5(
 
 //notes:Coolguy - PvE.
 Breachlight(
-  Demolitionist|Outlaw, Vorpal_Weapon|Multikill_Clip
+  Demolitionist|Outlaw,
+  Vorpal_Weapon|Multikill_Clip
 )
 
 //notes:Coolguy - PvP.

@@ -1,0 +1,15 @@
+title:True Vanguard
+//description: see https://www.youtube.com/channel/UCY6Qy4qU-d13U42280CxIvA/videos
+
+//notes:True Vanguard: PvP
+// https://youtu.be/9QXBw6NFi08
+dimwishlist:item=4149758318&perks=Quickdot_SAS,High-Caliber_Rounds,247725512,1890422124,
+dimwishlist:item=4149758318&perks=Quickdot_SAS,1885400500,247725512,1890422124,
+dimwishlist:item=4149758318&perks=Quickdot_SAS,3230963543,247725512,1890422124,
+dimwishlist:item=4149758318&perks=445755706,High-Caliber_Rounds,247725512,1890422124,
+dimwishlist:item=4149758318&perks=445755706,1885400500,247725512,1890422124,
+dimwishlist:item=4149758318&perks=445755706,3230963543,247725512,1890422124,
+dimwishlist:item=4149758318&perks=445755704,High-Caliber_Rounds,247725512,1890422124,
+dimwishlist:item=4149758318&perks=445755704,1885400500,247725512,1890422124,
+dimwishlist:item=4149758318&perks=445755704,3230963543,247725512,1890422124,
+
