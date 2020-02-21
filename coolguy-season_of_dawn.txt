@@ -87,17 +87,17 @@ dimwishlist:item=1289997971&perks=1866048759,2458213969
 
 // Trophy Hunter review - https://youtu.be/dGHNinCK3HI
 //notes:Coolguy - PvP. handling perks, avoid negatives on barrels
-dimwishlist:item=4166221755&perks=Arrowhead_Break,106909392,972757866,Snapshot
+dimwishlist:item=4166221755&perks=839105230,106909392,972757866,957782887
 
-dimwishlist:item=4166221755&perks=1840239774,106909392,972757866,Snapshot
+dimwishlist:item=4166221755&perks=1840239774,106909392,972757866,957782887
 
-dimwishlist:item=4166221755&perks=1392496348,106909392,972757866,Snapshot
+dimwishlist:item=4166221755&perks=1392496348,106909392,972757866,957782887
 
 
 //notes:Coolguy - PvP. Controller
-dimwishlist:item=4166221755&perks=4090651448,3177308360,972757866,Snapshot
+dimwishlist:item=4166221755&perks=4090651448,3177308360,972757866,957782887
 
-dimwishlist:item=4166221755&perks=1482024992,3177308360,972757866,Snapshot
+dimwishlist:item=4166221755&perks=1482024992,3177308360,972757866,957782887
 
 
 //notes:Coolguy - PvE. solo or solo queue, use Backup Mag mod

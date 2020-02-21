@@ -90,10 +90,10 @@ Breachlight(
 // Trophy Hunter review - https://youtu.be/dGHNinCK3HI
 //notes:Coolguy - PvP. handling perks, avoid negatives on barrels
 Trophy_Hunter(
- Arrowhead_Break|Fluted_Barrel|Polygonal_Rifling,
+ Arrowhead_Brake|Fluted_Barrel|Polygonal_Rifling,
  Tactical_Mag,
  Pulse_Monitor,
- Snapshot
+ Snapshot_Sights
 )
 
 //notes:Coolguy - PvP. Controller
@@ -101,7 +101,7 @@ Trophy_Hunter(
  Corkscrew_Rifling|Smallbore,
  Steady_Rounds,
  Pulse_Monitor,
- Snapshot
+ Snapshot_Sights
 )
 
 //notes:Coolguy - PvE. solo or solo queue, use Backup Mag mod
