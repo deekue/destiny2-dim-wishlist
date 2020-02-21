@@ -13,11 +13,16 @@ Last_Hope(
 	any_of(Feeding_Frenzy, Rangefinder),
 	any_of(Multikill_Clip, Rampage))
 
+//notes:PvP, Controller, anti-Super
 Breachlight(
+  Smallbore,
+  Steady_Rounds|Tactical_Mag,
+	any_of(Demolitionist, Threat_Detector, Hip_Fire_Grip),
 	Vorpal_Weapon,
-	any_of(Demolitionist, Outlaw, Hip_Fire_Grip))
+)
 
 
 include(`coolguy-season_of_dawn.txt')
 include(`fallout_plays-controller.txt')
+include(`true_vanguard.txt')
 include(`sources/voltron.txt')
