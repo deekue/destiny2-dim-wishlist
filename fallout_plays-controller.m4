@@ -83,3 +83,35 @@ Bygones(
   Rangefinder,
   Outlaw)
 
+//notes:Fallout Plays: PvP. Stability. MW: Stability/Range. https://youtu.be/VRfzce9h6NM
+Jack_Queen_King_3(
+  Steadyhand_HCS,
+  Ricochet_Rounds,
+  Threat_Detector|Demolitionist,
+  Snapshot_Sights
+)
+
+//notes:Fallout Plays: PvP. Range. MW: Range. https://youtu.be/VRfzce9h6NM
+Jack_Queen_King_3(
+  Sureshot_HCS,
+  High_Caliber_Rounds|Ricochet_Rounds,
+  Threat_Detector|Demolitionist,
+  Snapshot_Sights
+)
+
+//notes:Fallout Plays: PvP. Extra dammage. MW: Range. https://youtu.be/VRfzce9h6NM
+Jack_Queen_King_3(
+  Steadyhand_HCS|Sureshot_HCS,
+  High_Caliber_Rounds|Ricochet_Rounds,
+  Subsistence,
+  Rampage,
+)
+
+//notes:Fallout Plays: PvP. Extra dammage. MW: Range. https://youtu.be/VRfzce9h6NM
+Jack_Queen_King_3(
+  Steadyhand_HCS|Sureshot_HCS,
+  High_Caliber_Rounds|Ricochet_Rounds,
+  Threat_Detector,
+  Swashbuckler,
+)
+
