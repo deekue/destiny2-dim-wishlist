@@ -85,7 +85,7 @@ Bygones(
 
 //notes:Fallout Plays: PvP. Stability. MW: Stability/Range. https://youtu.be/VRfzce9h6NM
 Jack_Queen_King_3(
-  Steadyhand_HCS,
+  SteadyHand_HCS,
   Ricochet_Rounds,
   Threat_Detector|Demolitionist,
   Snapshot_Sights
@@ -101,7 +101,7 @@ Jack_Queen_King_3(
 
 //notes:Fallout Plays: PvP. Extra dammage. MW: Range. https://youtu.be/VRfzce9h6NM
 Jack_Queen_King_3(
-  Steadyhand_HCS|Sureshot_HCS,
+  SteadyHand_HCS|Sureshot_HCS,
   High_Caliber_Rounds|Ricochet_Rounds,
   Subsistence,
   Rampage,
@@ -109,7 +109,7 @@ Jack_Queen_King_3(
 
 //notes:Fallout Plays: PvP. Extra dammage. MW: Range. https://youtu.be/VRfzce9h6NM
 Jack_Queen_King_3(
-  Steadyhand_HCS|Sureshot_HCS,
+  SteadyHand_HCS|Sureshot_HCS,
   High_Caliber_Rounds|Ricochet_Rounds,
   Threat_Detector,
   Swashbuckler,
