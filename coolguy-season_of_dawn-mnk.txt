@@ -1,0 +1,12 @@
+title:Coolguy - Season of Dawn - Mouse/Keyboard
+//description: see https://www.youtube.com/channel/UCAOitB3h99Ur9RzR5ftd2bA
+
+//notes:Coolguy - PvP, MnK. unique perk EotS
+dimwishlist:item=3233390913&perks=588594999,699525795
+
+
+//notes:Coolguy - MnK. low stability, needs CB mod
+dimwishlist:item=1251729046&perks=2779035018,2458213969
+
+
+

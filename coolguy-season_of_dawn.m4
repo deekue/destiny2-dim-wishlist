@@ -21,19 +21,9 @@ Infinite_Paths_8(
   Moving_Target, Zen_Moment
 )
 
-//notes:Coolguy - PvP, MnK. unique perk EotS
-Infinite_Paths_8(
-  Moving_Target, Eye_of_the_Storm
-)
-
 //notes:Coolguy - PvE. Grenade energy
 Infinite_Paths_8(
   Demolitionist, Dragonfly
-)
-
-//notes:Coolguy - MnK. low stability, needs CB mod
-Steelfeather_Repeater(
-  Feeding_Frenzy, Multikill_Clip
 )
 
 //notes:Coolguy - Controller. low stability, needs CB mod
@@ -43,22 +33,8 @@ Steelfeather_Repeater(
 
 //notes:Coolguy - PvE. Solar fusion
 Gallant_Charge(
-  Demolitionist, Multikill_Clip
-)
-
-//notes:Coolguy - PvE. Solar fusion
-Gallant_Charge(
-  Demolitionist, Swashbuckler
-)
-
-//notes:Coolguy - PvP. Solar fusion
-Gallant_Charge(
-  Demolitionist, Tap_the_Trigger
-)
-
-//notes:Coolguy - PvP. Solar fusion
-Gallant_Charge(
-  Demolitionist, Rangefinder
+  Demolitionist,
+  Multikill_Clip|Swashbuckler|Tap_the_Trigger|Rangefinder
 )
 
 //notes:Coolguy - elite scout. ideally Vorpal+Exp Payload

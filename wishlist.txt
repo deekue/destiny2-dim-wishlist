@@ -3,9 +3,6 @@ title:My personal wishlist
 //notes:Super stable kinetic sniper rifle
 dimwishlist:item=3100452337&perks=839105230,106909392,3400784728,247725512
 
-dimwishlist:item=410996590&perks=1820235745,2848615171
-dimwishlist:item=410996590&perks=3523296417,2848615171
-
 dimwishlist:item=2723241847&perks=247725512,3038247973
 
 dimwishlist:item=3622137132&perks=2779035018,2458213969
@@ -43,16 +40,8 @@ Line_In_The_Sand(
 dimwishlist:item=3233390913&perks=588594999,2387244414
 
 
-//notes:Coolguy - PvP, MnK. unique perk EotS
-dimwishlist:item=3233390913&perks=588594999,699525795
-
-
 //notes:Coolguy - PvE. Grenade energy
 dimwishlist:item=3233390913&perks=3523296417,2848615171
-
-
-//notes:Coolguy - MnK. low stability, needs CB mod
-dimwishlist:item=1251729046&perks=2779035018,2458213969
 
 
 //notes:Coolguy - Controller. low stability, needs CB mod
@@ -61,17 +50,8 @@ dimwishlist:item=1251729046&perks=280464955,2458213969
 
 //notes:Coolguy - PvE. Solar fusion
 dimwishlist:item=1706206669&perks=3523296417,2458213969
-
-
-//notes:Coolguy - PvE. Solar fusion
 dimwishlist:item=1706206669&perks=3523296417,4082225868
-
-
-//notes:Coolguy - PvP. Solar fusion
 dimwishlist:item=1706206669&perks=3523296417,1890422124
-
-
-//notes:Coolguy - PvP. Solar fusion
 dimwishlist:item=1706206669&perks=3523296417,2846385770
 
 
@@ -235,8 +215,7 @@ dimwishlist:item=410996590&perks=1926090091,1885400500,4071163871,4082225868,
 title:True Vanguard
 //description: see https://www.youtube.com/channel/UCY6Qy4qU-d13U42280CxIvA/videos
 
-//notes:True Vanguard: PvP
-// https://youtu.be/9QXBw6NFi08
+//notes:True Vanguard: PvP. https://youtu.be/9QXBw6NFi08
 dimwishlist:item=4149758318&perks=445755707,1561002382,247725512,1890422124,
 dimwishlist:item=4149758318&perks=445755707,1885400500,247725512,1890422124,
 dimwishlist:item=4149758318&perks=445755707,3230963543,247725512,1890422124,
@@ -246,6 +225,13 @@ dimwishlist:item=4149758318&perks=445755706,3230963543,247725512,1890422124,
 dimwishlist:item=4149758318&perks=445755704,1561002382,247725512,1890422124,
 dimwishlist:item=4149758318&perks=445755704,1885400500,247725512,1890422124,
 dimwishlist:item=4149758318&perks=445755704,3230963543,247725512,1890422124,
+
+//notes:True Vanguard: PvP. MW: Stability. Mod: Hipfire Grip. https://youtu.be/gD21WhvPArA
+dimwishlist:item=3222518097&perks=445755707,1885400500,588594999,1015611457
+
+dimwishlist:item=3222518097&perks=445755706,1885400500,588594999,1015611457
+
+dimwishlist:item=3222518097&perks=445755704,1885400500,588594999,1015611457
 
 
 title:This is a compiled collection of god/recommended rolls from top community minds.

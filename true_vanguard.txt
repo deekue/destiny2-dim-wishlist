@@ -1,8 +1,7 @@
 title:True Vanguard
 //description: see https://www.youtube.com/channel/UCY6Qy4qU-d13U42280CxIvA/videos
 
-//notes:True Vanguard: PvP
-// https://youtu.be/9QXBw6NFi08
+//notes:True Vanguard: PvP. https://youtu.be/9QXBw6NFi08
 dimwishlist:item=4149758318&perks=445755707,1561002382,247725512,1890422124,
 dimwishlist:item=4149758318&perks=445755707,1885400500,247725512,1890422124,
 dimwishlist:item=4149758318&perks=445755707,3230963543,247725512,1890422124,
@@ -12,4 +11,11 @@ dimwishlist:item=4149758318&perks=445755706,3230963543,247725512,1890422124,
 dimwishlist:item=4149758318&perks=445755704,1561002382,247725512,1890422124,
 dimwishlist:item=4149758318&perks=445755704,1885400500,247725512,1890422124,
 dimwishlist:item=4149758318&perks=445755704,3230963543,247725512,1890422124,
+
+//notes:True Vanguard: PvP. MW: Stability. Mod: Hipfire Grip. https://youtu.be/gD21WhvPArA
+dimwishlist:item=3222518097&perks=445755707,1885400500,588594999,1015611457
+
+dimwishlist:item=3222518097&perks=445755706,1885400500,588594999,1015611457
+
+dimwishlist:item=3222518097&perks=445755704,1885400500,588594999,1015611457
 
