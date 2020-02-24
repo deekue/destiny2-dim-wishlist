@@ -115,3 +115,18 @@ Jack_Queen_King_3(
   Swashbuckler,
 )
 
+//notes:Fallout Plays: PvP. Grenade farmer. MW: Range/Stability. Mod: Counterbalance. https://youtu.be/pVVLwg1pVs4
+Gallant_Charge(
+   Extended_Barrel|Chambered_Compensator,
+   Accelerated_Coils,
+   Demolitionist,
+   Tap_the_Trigger
+)
+
+//notes:Fallout Plays: PvP. No flinch?. MW: Range/Stability. Mod: Counterbalance. https://youtu.be/pVVLwg1pVs4
+Gallant_Charge(
+   Extended_Barrel|Chambered_Compensator,
+   Particle_Repeater,
+   No_Distractions,
+   Tap_the_Trigger
+)
