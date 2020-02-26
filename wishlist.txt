@@ -18,6 +18,34 @@ dimwishlist:item=1289997971&perks=1482024992,106909392,3523296417,1546637391,
 dimwishlist:item=1289997971&perks=1482024992,106909392,4071163871,1546637391,
 dimwishlist:item=1289997971&perks=1482024992,106909392,1866048759,1546637391,
 
+//notes:UpArrow: PvP god roll. Rampage or Rangefinder are options over Kill Clip but don’t provide the same upside
+dimwishlist:item=2712244741&perks=839105230
+  1885400500
+dimwishlist:item=2712244741&perks=1561002382
+  Kill Clip
+  1168162263
+dimwishlist:item=2712244741&perks=3161816588
+
+
+//notes:DreamForge: PvP Season of Dawn
+dimwishlist:item=3393519051&perks=1047830412,1087426260,3161816588,3425386926
+
+dimwishlist:item=3393519051&perks=1047830412,3142289711,3161816588,3425386926
+
+dimwishlist:item=3393519051&perks=1332244541,1087426260,3161816588,3425386926
+
+dimwishlist:item=3393519051&perks=1332244541,3142289711,3161816588,3425386926
+
+
+//notes:DreamForge: PvP possible Season of Glory
+dimwishlist:item=3393519051&perks=1047830412,106909392,3161816588,47981717
+
+dimwishlist:item=3393519051&perks=1047830412,106909392,2869569095,47981717
+
+dimwishlist:item=3393519051&perks=1047830412,3142289711,3161816588,47981717
+
+dimwishlist:item=3393519051&perks=1047830412,3142289711,2869569095,47981717
+
 
 title:Coolguy - Season of Dawn
 //description: see https://www.youtube.com/channel/UCAOitB3h99Ur9RzR5ftd2bA
@@ -210,6 +238,17 @@ dimwishlist:item=410996590&perks=1926090095,1561002382,4071163871,4082225868,
 dimwishlist:item=410996590&perks=1926090095,1885400500,4071163871,4082225868,
 dimwishlist:item=410996590&perks=1926090091,1561002382,4071163871,4082225868,
 dimwishlist:item=410996590&perks=1926090091,1885400500,4071163871,4082225868,
+
+//notes:Fallout Plays: PvP. Grenade farmer. MW: Range/Stability. Mod: Counterbalance. https://youtu.be/pVVLwg1pVs4
+dimwishlist:item=1706206669&perks=1467527085,689005463,3523296417,1890422124
+
+dimwishlist:item=1706206669&perks=3142289711,689005463,3523296417,1890422124
+
+
+//notes:Fallout Plays: PvP. No flinch?. MW: Range/Stability. Mod: Counterbalance. https://youtu.be/pVVLwg1pVs4
+dimwishlist:item=1706206669&perks=1467527085,3868766766,2866798147,1890422124
+
+dimwishlist:item=1706206669&perks=3142289711,3868766766,2866798147,1890422124
 
 
 title:True Vanguard
