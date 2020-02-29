@@ -45,6 +45,12 @@ Perfect_Paradox(
   Opening_Shot
 )
 
+//notes:Infinite Ammo build https://youtu.be/dIY7o0GDqAM
+Threat_Level(
+  Grave_Robber
+  Trench_Barrel,
+)
+
 include(`coolguy-season_of_dawn.txt')
 include(`fallout_plays-controller.txt')
 include(`true_vanguard.txt')

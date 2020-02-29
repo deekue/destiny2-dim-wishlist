@@ -47,6 +47,10 @@ dimwishlist:item=3393519051&perks=1047830412,3142289711,3161816588,47981717
 dimwishlist:item=3393519051&perks=1047830412,3142289711,2869569095,47981717
 
 
+//notes:Infinite Ammo build https://youtu.be/dIY7o0GDqAM
+dimwishlist:item=1664372054&perks=1631667848
+  2360754333,
+
 title:Coolguy - Season of Dawn
 //description: see https://www.youtube.com/channel/UCAOitB3h99Ur9RzR5ftd2bA
 
