@@ -51,6 +51,20 @@ Threat_Level(
   Trench_Barrel,
 )
 
+//notes:Destiny Fun Police: PvP. MW: Range/Stability https://youtu.be/hE8WVafkc08
+Dire_Promise(
+  SteadyHand_HCS,
+  High_Caliber_Rounds,
+  Opening_Shot,
+  Swashbuckler
+)
+
+//notes:UpArrow: PvP
+Dire_Promise(
+  Opening_Shot,
+  Rangefinder
+)
+
 include(`coolguy-season_of_dawn.txt')
 include(`fallout_plays-controller.txt')
 include(`true_vanguard.txt')
